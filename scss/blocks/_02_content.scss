@@ -1,0 +1,11 @@
+.content {
+   flex-grow: 1;
+   padding: 50px 0;
+   &__title {
+      font-size: 24px;
+      margin-bottom: 30px;
+   }
+   p {
+      font-size: 18px;
+   }
+}
